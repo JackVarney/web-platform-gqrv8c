@@ -1,0 +1,5 @@
+
+#This does not work. Presumably the double slash
+/.well-known/*    /well-known/:splat    200
+/.well_known/*    /well-known/:splat    200
+/*    /index.html    404
